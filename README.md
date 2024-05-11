@@ -1,4 +1,4 @@
-# Movie_rentals_dimensional_model
+# Movie_rentals_dimensional_model | MS Excel, ER studio
 
 -Utilized the Sakila OLTP data model and converted it to dimensional model using ER Studio 
 -Following things were considered when creating the dimensional model:
